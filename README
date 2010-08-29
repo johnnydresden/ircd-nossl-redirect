@@ -1,0 +1,2 @@
+Simple libev based server to inform users they need to connect to a
+different port for IRC via SSL than the generic 6667
